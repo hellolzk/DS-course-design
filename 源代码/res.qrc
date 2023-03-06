@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/welcome_bkground.jpg</file>
+        <file>res/school_symbol.jfif</file>
+        <file>../coinflip/res/BackButton.png</file>
+        <file>../coinflip/res/BackButtonSelected.png</file>
+        <file>res/BackButton.png</file>
+        <file>res/BackButtonSelected.png</file>
+        <file>res/school_map.jpg</file>
+        <file>res/map_button.png</file>
+        <file>res/map_button(1).png</file>
+        <file>res/map_button(2).png</file>
+        <file>res/school_map(2).png</file>
+        <file>res/build_button.png</file>
+        <file>res/navigation.png</file>
+    </qresource>
+</RCC>
